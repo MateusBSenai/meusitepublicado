@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #0b1622;
+}
+
+h2, h3 {
+  color: #fff;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  border-top: 1px solid #333;
+}
